@@ -1,0 +1,58 @@
+div {
+  text-align: center;
+  width: 220px;
+  height: 280px;
+  background-color: #EFEFEF;
+  box-shadow: 0.5px 0.5px gray;
+  margin: 0;
+  display: inline-block;
+  overflow: visible;
+}
+
+div:hover{
+  background-color: #FFFFFF;
+  width: 230px;
+  height: 290px;
+  opacity: 0.5;
+}
+.icon-food {
+  font-size: 50px;
+  color: rgba(88, 62, 94, 0.75);
+}
+
+.icon-cloud {
+  font-size: 50px;
+  color: rgba(88, 62, 94, 0.75);
+}
+
+.icon-heart {
+  font-size: 50px;
+  color: rgba(88, 62, 94, 0.75) ;
+}
+
+.icon-music {
+  font-size: 50px;
+  color: rgba(88, 62, 94, 0.75);
+}
+
+.icon-camera {
+  font-size: 50px;
+  color: rgba(88, 62, 94, 0.75);
+}
+
+h1 {
+  font-family: 'Sacramento', cursive;
+  font-size: 30px;
+}
+
+h3 {
+  font-family: 'Amatic SC', cursive;
+  font-size: 20px;
+  color: rgba(31, 32, 34, 0.68);
+}
+
+
+ #p {
+  font-family: 'Questrial', sans-serif;
+  font-size: 15px;
+}
